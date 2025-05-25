@@ -1,0 +1,6 @@
+1,Popescu,Andrei,34,Fractura femur,2
+2,Ionescu,Elena,25,Apendicita,4
+3,Marin,George,65,Accident vascular,5
+4,Dumitrescu,Ioana,43,Entorsa,1
+5,Stan,Paul,52,Infarct miocardic,5
+6,Radulescu,Alina,29,Raceala,2
