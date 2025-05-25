@@ -149,6 +149,7 @@
     <ClCompile Include="TaskSuplimentar07.c" />
     <ClCompile Include="TaskSuplimentar08.c" />
     <ClCompile Include="TaskSuplimentar09.c" />
+    <ClCompile Include="TaskSuplimentar10.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Masini.txt" />
